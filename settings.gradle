@@ -1,0 +1,3 @@
+include ':sdk-voicebot'
+include ':app'
+rootProject.name = "VoiceBot"
